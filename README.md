@@ -1,4 +1,3 @@
-# test-push-repo
+# Test Push Repository
 
-This repo exists purely for integration testing.
-
+This repository is used for Coordinatrix integration testing.
